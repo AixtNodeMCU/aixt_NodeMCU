@@ -6,9 +6,6 @@
 // Description: ADC functions (Explorer16-PIC24 port)
 module adc
 
-#include <p24FJ128GA010.h>
-
-
 fn init() {
 	
 }
